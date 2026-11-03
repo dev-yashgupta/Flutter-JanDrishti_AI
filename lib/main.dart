@@ -25,11 +25,11 @@ void main() async {
     debugPrint(details.toString());
   };
 
-  runApp(const HealthBridgeApp());
+  runApp(const SehatVanniApp());
 }
 
-class HealthBridgeApp extends StatelessWidget {
-  const HealthBridgeApp({super.key});
+class SehatVanniApp extends StatelessWidget {
+  const SehatVanniApp({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,6 +1,6 @@
 class AppStrings {
   // App
-  static const String appName = 'HealthBridge AI';
+  static const String appName = 'SehatVanni AI';
   static const String appTagline = 'Your Health, Our Priority';
 
   // Auth
@@ -11,7 +11,7 @@ class AppStrings {
   static const String forgotPassword = 'Forgot Password?';
   static const String demoLogin = 'Demo Login';
   static const String loginTitle = 'Welcome Back';
-  static const String loginSubtitle = 'Sign in to your HealthBridge account';
+  static const String loginSubtitle = 'Sign in to your SehatVanni account';
   static const String demoEmail = 'citizen1@test.com';
   static const String demoPassword = 'password';
 

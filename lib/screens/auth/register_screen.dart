@@ -63,7 +63,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('Account created successfully! Welcome to HealthBridge.'),
+              content: Text('Account created successfully! Welcome to SehatVanni.'),
               backgroundColor: AppColors.success,
               behavior: SnackBarBehavior.floating,
             ),
@@ -131,7 +131,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               ),
               const SizedBox(height: 6),
               const Text(
-                'Join the HealthBridge AI Citizen Healthcare Network',
+                'Join the SehatVanni AI Citizen Healthcare Network',
                 style: TextStyle(
                   fontSize: 13,
                   color: AppColors.textSecondary,

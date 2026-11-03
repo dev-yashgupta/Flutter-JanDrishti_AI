@@ -95,7 +95,7 @@ class PrescriptionsScreen extends StatelessWidget {
           instructions: 'Take after dinner.',
         ),
       ],
-      notes: 'Maintain low-sodium diet (< 2g/day). Log BP readings daily in the HealthBridge Vitals tracker.',
+      notes: 'Maintain low-sodium diet (< 2g/day). Log BP readings daily in the SehatVanni Vitals tracker.',
     ),
   ];
 
